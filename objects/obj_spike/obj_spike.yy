@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_spike",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_spike",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_spike",
+    "path":"sprites/spr_spike/spr_spike.yy",
   },
   "spriteMaskId":null,
   "visible":true,
