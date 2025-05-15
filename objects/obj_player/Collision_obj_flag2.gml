@@ -1,2 +1,2 @@
-room_goto_next()
+room_goto(0)
 score = score + 1
